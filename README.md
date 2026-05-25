@@ -26,6 +26,20 @@ It is provided for:
 The full implementation is private by design.  
 This public repository is maintained to document the app and distribute release artifacts safely.
 
+## Attribution
+
+The initial core idea/prototype was inspired by:
+
+- https://github.com/patterniha/SNI-Spoofing
+
+For this public build and release line, additional engineering work was applied with a focus on:
+
+- improved runtime stability
+- bug fixes and safer error handling
+- cleaner desktop UX and release packaging flow
+
+This repository is an independently maintained distribution/documentation project and does not re-publish the private production core.
+
 ## Releases
 
 Binary builds are published as ZIP artifacts (Windows x64), for example:
